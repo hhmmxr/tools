@@ -1,3 +1,7 @@
+
+Future updates will be available in the  https://github.com/tang070205/tools
+
+
 aimd-OUTCARs-xyz2POSCAR.py is to extract the structure for aimd, then separate it, and then use ovito to derive a POSCAR for each single point energy to be calculated.
 
 create-strain_deform-rattle-perturb.py is to generate a training set using hiphive and dpdata.
