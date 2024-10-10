@@ -63,7 +63,7 @@ def replace_this_with_your_code5():
     xlabel('DFT virial (GPa)')
     ylabel('NEP virial (GPa)')
     legend(['train'])
-    plt.title(f'RMSE = {1000* rmse_stress:.3f} mGPa')
+    plt.title(f'RMSE = {1000* rmse_stress:.3f} MPa')
     tight_layout()
     pass
 
